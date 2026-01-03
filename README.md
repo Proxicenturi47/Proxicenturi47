@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m learning AI and Machine Learning with a <br>background in backend development.  <br>Currently focused on building a strong foundation in ML <br>while exploring how intelligent models integrate with <br>real-world systems.<br>
+I’m learning AI and Machine Learning with a <br>background in backend development. Currently focused on building a strong foundation in ML <br>while exploring how intelligent models integrate with real-world systems.
 
 
 ## 🌐 Socials:
